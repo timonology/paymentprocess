@@ -10,7 +10,7 @@ paymentmodel = pmodel(api)
 
 
 
-@api.route('/paymentprocess/api/SendEmail', methods=['POST'])
+@api.route('/paymentprocess/api/process', methods=['POST'])
 class ProcessPaymentClass(Resource):
     @api.expect(paymentmodel)
     def post(self, **kwargs):
