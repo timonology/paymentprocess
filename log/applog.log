@@ -1,0 +1,288 @@
+2021-01-26 17:06:27,270 - INFO -  * Restarting with stat
+2021-01-26 17:06:28,024 - WARNING -  * Debugger is active!
+2021-01-26 17:06:28,033 - INFO -  * Debugger PIN: 304-184-435
+2021-01-26 17:06:28,046 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-01-26 17:08:22,720 - INFO -  * Detected change in 'C:\\Users\\User01\\Documents\\Python\\apps\\PythonCodingTest\\app.py', reloading
+2021-01-26 17:08:22,765 - INFO -  * Restarting with stat
+2021-01-26 17:09:38,818 - INFO -  * Restarting with stat
+2021-01-26 17:09:39,559 - WARNING -  * Debugger is active!
+2021-01-26 17:09:39,569 - INFO -  * Debugger PIN: 304-184-435
+2021-01-26 17:09:39,582 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-01-26 17:15:21,844 - INFO - 127.0.0.1 - - [26/Jan/2021 17:15:21] "POST /paymentprocess/api/SendEmail HTTP/1.1" 500 -
+2021-01-26 17:15:32,511 - INFO - 127.0.0.1 - - [26/Jan/2021 17:15:32] "GET / HTTP/1.1" 200 -
+2021-01-26 17:15:32,641 - INFO - 127.0.0.1 - - [26/Jan/2021 17:15:32] "GET /swaggerui/droid-sans.css HTTP/1.1" 200 -
+2021-01-26 17:15:32,654 - INFO - 127.0.0.1 - - [26/Jan/2021 17:15:32] "GET /swaggerui/swagger-ui.css HTTP/1.1" 200 -
+2021-01-26 17:15:32,656 - INFO - 127.0.0.1 - - [26/Jan/2021 17:15:32] "GET /swaggerui/swagger-ui-bundle.js HTTP/1.1" 200 -
+2021-01-26 17:15:32,659 - INFO - 127.0.0.1 - - [26/Jan/2021 17:15:32] "GET /swaggerui/swagger-ui-standalone-preset.js HTTP/1.1" 200 -
+2021-01-26 17:15:33,036 - INFO - 127.0.0.1 - - [26/Jan/2021 17:15:33] "GET /swagger.json HTTP/1.1" 200 -
+2021-01-26 17:15:33,041 - INFO - 127.0.0.1 - - [26/Jan/2021 17:15:33] "GET /swaggerui/favicon-32x32.png HTTP/1.1" 200 -
+2021-01-26 17:15:53,951 - INFO - 127.0.0.1 - - [26/Jan/2021 17:15:53] "POST /paymentprocess/api/SendEmail HTTP/1.1" 500 -
+2021-01-26 17:16:17,596 - INFO - 127.0.0.1 - - [26/Jan/2021 17:16:17] "POST /paymentprocess/api/SendEmail HTTP/1.1" 500 -
+2021-01-26 17:20:12,158 - INFO -  * Detected change in 'C:\\Users\\User01\\Documents\\Python\\apps\\PythonCodingTest\\paymentgateway.py', reloading
+2021-01-26 17:20:12,203 - INFO -  * Restarting with stat
+2021-01-26 17:20:13,130 - WARNING -  * Debugger is active!
+2021-01-26 17:20:13,139 - INFO -  * Debugger PIN: 304-184-435
+2021-01-26 17:20:13,154 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-01-26 17:20:24,888 - INFO -  * Detected change in 'C:\\Users\\User01\\Documents\\Python\\apps\\PythonCodingTest\\paymentprocessservice.py', reloading
+2021-01-26 17:20:24,929 - INFO -  * Restarting with stat
+2021-01-26 17:20:25,703 - WARNING -  * Debugger is active!
+2021-01-26 17:20:25,712 - INFO -  * Debugger PIN: 304-184-435
+2021-01-26 17:20:25,724 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-01-26 17:20:27,885 - INFO -  * Detected change in 'C:\\Users\\User01\\Documents\\Python\\apps\\PythonCodingTest\\paymentprocessservice.py', reloading
+2021-01-26 17:20:27,926 - INFO -  * Restarting with stat
+2021-01-26 17:20:28,828 - WARNING -  * Debugger is active!
+2021-01-26 17:20:28,837 - INFO -  * Debugger PIN: 304-184-435
+2021-01-26 17:20:28,851 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-01-26 17:20:32,543 - INFO - 127.0.0.1 - - [26/Jan/2021 17:20:32] "POST /paymentprocess/api/SendEmail HTTP/1.1" 200 -
+2021-01-26 17:25:23,355 - INFO -  * Detected change in 'C:\\Users\\User01\\Documents\\Python\\apps\\PythonCodingTest\\paymentprocessservice.py', reloading
+2021-01-26 17:25:23,397 - INFO -  * Restarting with stat
+2021-01-26 17:25:24,240 - WARNING -  * Debugger is active!
+2021-01-26 17:25:24,249 - INFO -  * Debugger PIN: 304-184-435
+2021-01-26 17:25:24,264 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-01-26 17:26:50,404 - INFO -  * Detected change in 'C:\\Users\\User01\\Documents\\Python\\apps\\PythonCodingTest\\paymentprocessservice.py', reloading
+2021-01-26 17:26:50,447 - INFO -  * Restarting with stat
+2021-01-26 17:26:51,264 - WARNING -  * Debugger is active!
+2021-01-26 17:26:51,272 - INFO -  * Debugger PIN: 304-184-435
+2021-01-26 17:26:51,288 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-01-26 17:26:57,676 - INFO -  * Detected change in 'C:\\Users\\User01\\Documents\\Python\\apps\\PythonCodingTest\\paymentprocessservice.py', reloading
+2021-01-26 17:26:57,715 - INFO -  * Restarting with stat
+2021-01-26 17:26:58,609 - WARNING -  * Debugger is active!
+2021-01-26 17:26:58,619 - INFO -  * Debugger PIN: 304-184-435
+2021-01-26 17:26:58,633 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-01-26 17:27:02,081 - INFO - 127.0.0.1 - - [26/Jan/2021 17:27:02] "POST /paymentprocess/api/SendEmail HTTP/1.1" 400 -
+2021-01-26 17:28:14,050 - INFO -  * Detected change in 'C:\\Users\\User01\\Documents\\Python\\apps\\PythonCodingTest\\paymentprocessservice.py', reloading
+2021-01-26 17:28:14,092 - INFO -  * Restarting with stat
+2021-01-26 17:28:14,989 - WARNING -  * Debugger is active!
+2021-01-26 17:28:14,998 - INFO -  * Debugger PIN: 304-184-435
+2021-01-26 17:28:15,013 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-01-26 17:28:16,119 - INFO -  * Detected change in 'C:\\Users\\User01\\Documents\\Python\\apps\\PythonCodingTest\\paymentprocessservice.py', reloading
+2021-01-26 17:28:16,159 - INFO -  * Restarting with stat
+2021-01-26 17:28:16,943 - WARNING -  * Debugger is active!
+2021-01-26 17:28:16,952 - INFO -  * Debugger PIN: 304-184-435
+2021-01-26 17:28:16,964 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-01-26 17:28:18,074 - INFO -  * Detected change in 'C:\\Users\\User01\\Documents\\Python\\apps\\PythonCodingTest\\paymentprocessservice.py', reloading
+2021-01-26 17:28:18,117 - INFO -  * Restarting with stat
+2021-01-26 17:28:18,926 - WARNING -  * Debugger is active!
+2021-01-26 17:28:18,935 - INFO -  * Debugger PIN: 304-184-435
+2021-01-26 17:28:18,949 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-01-26 17:28:38,045 - INFO -  * Detected change in 'C:\\Users\\User01\\Documents\\Python\\apps\\PythonCodingTest\\validationservice.py', reloading
+2021-01-26 17:28:38,084 - INFO -  * Restarting with stat
+2021-01-26 17:28:38,869 - WARNING -  * Debugger is active!
+2021-01-26 17:28:38,878 - INFO -  * Debugger PIN: 304-184-435
+2021-01-26 17:28:38,897 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-01-26 17:28:46,287 - INFO -  * Restarting with stat
+2021-01-26 17:28:47,129 - WARNING -  * Debugger is active!
+2021-01-26 17:28:47,137 - INFO -  * Debugger PIN: 304-184-435
+2021-01-26 17:28:47,150 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-01-26 17:28:54,523 - INFO - 127.0.0.1 - - [26/Jan/2021 17:28:54] "POST /paymentprocess/api/SendEmail HTTP/1.1" 400 -
+2021-01-26 17:29:09,590 - INFO -  * Detected change in 'C:\\Users\\User01\\Documents\\Python\\apps\\PythonCodingTest\\validationservice.py', reloading
+2021-01-26 17:29:09,628 - INFO -  * Restarting with stat
+2021-01-26 17:29:10,533 - WARNING -  * Debugger is active!
+2021-01-26 17:29:10,542 - INFO -  * Debugger PIN: 304-184-435
+2021-01-26 17:29:10,557 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-01-26 17:29:14,479 - INFO - 127.0.0.1 - - [26/Jan/2021 17:29:14] "POST /paymentprocess/api/SendEmail HTTP/1.1" 400 -
+2021-01-26 17:30:37,576 - INFO -  * Detected change in 'C:\\Users\\User01\\Documents\\Python\\apps\\PythonCodingTest\\validationservice.py', reloading
+2021-01-26 17:30:37,615 - INFO -  * Restarting with stat
+2021-01-26 17:30:38,407 - WARNING -  * Debugger is active!
+2021-01-26 17:30:38,416 - INFO -  * Debugger PIN: 304-184-435
+2021-01-26 17:30:38,428 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-01-26 17:31:22,945 - INFO -  * Detected change in 'C:\\Users\\User01\\Documents\\Python\\apps\\PythonCodingTest\\paymentprocessservice.py', reloading
+2021-01-26 17:31:22,990 - INFO -  * Restarting with stat
+2021-01-26 17:31:23,917 - WARNING -  * Debugger is active!
+2021-01-26 17:31:23,925 - INFO -  * Debugger PIN: 304-184-435
+2021-01-26 17:31:23,938 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-01-26 17:31:26,112 - INFO -  * Detected change in 'C:\\Users\\User01\\Documents\\Python\\apps\\PythonCodingTest\\paymentprocessservice.py', reloading
+2021-01-26 17:31:26,152 - INFO -  * Restarting with stat
+2021-01-26 17:31:27,072 - WARNING -  * Debugger is active!
+2021-01-26 17:31:27,081 - INFO -  * Debugger PIN: 304-184-435
+2021-01-26 17:31:27,094 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-01-26 17:31:29,936 - INFO - 127.0.0.1 - - [26/Jan/2021 17:31:29] "POST /paymentprocess/api/SendEmail HTTP/1.1" 400 -
+2021-01-26 17:31:58,746 - INFO - 127.0.0.1 - - [26/Jan/2021 17:31:58] "POST /paymentprocess/api/SendEmail HTTP/1.1" 400 -
+2021-01-26 17:32:10,590 - INFO - 127.0.0.1 - - [26/Jan/2021 17:32:10] "POST /paymentprocess/api/SendEmail HTTP/1.1" 400 -
+2021-01-26 17:37:09,235 - INFO -  * Detected change in 'C:\\Users\\User01\\Documents\\Python\\apps\\PythonCodingTest\\validationservice.py', reloading
+2021-01-26 17:37:09,287 - INFO -  * Restarting with stat
+2021-01-26 17:37:10,105 - WARNING -  * Debugger is active!
+2021-01-26 17:37:10,114 - INFO -  * Debugger PIN: 304-184-435
+2021-01-26 17:37:10,130 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-01-26 17:37:11,241 - INFO -  * Detected change in 'C:\\Users\\User01\\Documents\\Python\\apps\\PythonCodingTest\\validationservice.py', reloading
+2021-01-26 17:37:11,286 - INFO -  * Restarting with stat
+2021-01-26 17:37:12,041 - WARNING -  * Debugger is active!
+2021-01-26 17:37:12,049 - INFO -  * Debugger PIN: 304-184-435
+2021-01-26 17:37:12,064 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-01-26 17:37:28,051 - INFO -  * Detected change in 'C:\\Users\\User01\\Documents\\Python\\apps\\PythonCodingTest\\validationservice.py', reloading
+2021-01-26 17:37:28,093 - INFO -  * Restarting with stat
+2021-01-26 17:37:28,992 - WARNING -  * Debugger is active!
+2021-01-26 17:37:29,003 - INFO -  * Debugger PIN: 304-184-435
+2021-01-26 17:37:29,018 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-01-26 17:37:38,615 - INFO - 127.0.0.1 - - [26/Jan/2021 17:37:38] "POST /paymentprocess/api/SendEmail HTTP/1.1" 400 -
+2021-01-26 17:37:52,105 - INFO - 127.0.0.1 - - [26/Jan/2021 17:37:52] "POST /paymentprocess/api/SendEmail HTTP/1.1" 400 -
+2021-01-26 17:38:10,720 - INFO - 127.0.0.1 - - [26/Jan/2021 17:38:10] "POST /paymentprocess/api/SendEmail HTTP/1.1" 200 -
+2021-01-26 17:38:17,513 - INFO - 127.0.0.1 - - [26/Jan/2021 17:38:17] "POST /paymentprocess/api/SendEmail HTTP/1.1" 200 -
+2021-01-26 17:38:30,279 - INFO - 127.0.0.1 - - [26/Jan/2021 17:38:30] "POST /paymentprocess/api/SendEmail HTTP/1.1" 200 -
+2021-01-26 17:40:47,428 - INFO -  * Detected change in 'C:\\Users\\User01\\Documents\\Python\\apps\\PythonCodingTest\\validationservice.py', reloading
+2021-01-26 17:40:47,487 - INFO -  * Restarting with stat
+2021-01-26 17:40:48,410 - WARNING -  * Debugger is active!
+2021-01-26 17:40:48,419 - INFO -  * Debugger PIN: 304-184-435
+2021-01-26 17:40:48,432 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-01-26 17:41:32,060 - INFO -  * Detected change in 'C:\\Users\\User01\\Documents\\Python\\apps\\PythonCodingTest\\paymentprocessservice.py', reloading
+2021-01-26 17:41:32,104 - INFO -  * Restarting with stat
+2021-01-26 17:41:32,892 - WARNING -  * Debugger is active!
+2021-01-26 17:41:32,900 - INFO -  * Debugger PIN: 304-184-435
+2021-01-26 17:41:32,914 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-01-26 17:41:40,834 - INFO - 127.0.0.1 - - [26/Jan/2021 17:41:40] "POST /paymentprocess/api/SendEmail HTTP/1.1" 500 -
+2021-01-26 17:41:48,973 - INFO -  * Detected change in 'C:\\Users\\User01\\Documents\\Python\\apps\\PythonCodingTest\\paymentprocessservice.py', reloading
+2021-01-26 17:41:49,015 - INFO -  * Restarting with stat
+2021-01-26 17:41:49,911 - WARNING -  * Debugger is active!
+2021-01-26 17:41:49,920 - INFO -  * Debugger PIN: 304-184-435
+2021-01-26 17:41:49,934 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-01-26 17:41:52,095 - INFO -  * Detected change in 'C:\\Users\\User01\\Documents\\Python\\apps\\PythonCodingTest\\validationservice.py', reloading
+2021-01-26 17:41:52,137 - INFO -  * Restarting with stat
+2021-01-26 17:41:52,961 - WARNING -  * Debugger is active!
+2021-01-26 17:41:52,973 - INFO -  * Debugger PIN: 304-184-435
+2021-01-26 17:41:52,991 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-01-26 17:42:04,186 - INFO - 127.0.0.1 - - [26/Jan/2021 17:42:04] "POST /paymentprocess/api/SendEmail HTTP/1.1" 200 -
+2021-01-26 17:42:15,407 - INFO -  * Detected change in 'C:\\Users\\User01\\Documents\\Python\\apps\\PythonCodingTest\\paymentprocessservice.py', reloading
+2021-01-26 17:42:15,446 - INFO -  * Restarting with stat
+2021-01-26 17:42:16,228 - WARNING -  * Debugger is active!
+2021-01-26 17:42:16,236 - INFO -  * Debugger PIN: 304-184-435
+2021-01-26 17:42:16,249 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-01-26 17:42:17,374 - INFO -  * Detected change in 'C:\\Users\\User01\\Documents\\Python\\apps\\PythonCodingTest\\paymentprocessservice.py', reloading
+2021-01-26 17:42:17,416 - INFO -  * Restarting with stat
+2021-01-26 17:42:18,230 - WARNING -  * Debugger is active!
+2021-01-26 17:42:18,243 - INFO -  * Debugger PIN: 304-184-435
+2021-01-26 17:42:18,258 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-01-26 17:42:19,789 - INFO - 127.0.0.1 - - [26/Jan/2021 17:42:19] "POST /paymentprocess/api/SendEmail HTTP/1.1" 400 -
+2021-01-26 17:42:25,824 - INFO - 127.0.0.1 - - [26/Jan/2021 17:42:25] "POST /paymentprocess/api/SendEmail HTTP/1.1" 200 -
+2021-01-26 17:44:32,388 - INFO -  * Detected change in 'C:\\Users\\User01\\Documents\\Python\\apps\\PythonCodingTest\\paymentprocessservice.py', reloading
+2021-01-26 17:44:32,428 - INFO -  * Restarting with stat
+2021-01-26 17:44:33,231 - WARNING -  * Debugger is active!
+2021-01-26 17:44:33,240 - INFO -  * Debugger PIN: 304-184-435
+2021-01-26 17:44:33,253 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-01-26 17:46:30,344 - INFO -  * Detected change in 'C:\\Users\\User01\\Documents\\Python\\apps\\PythonCodingTest\\paymentprocessservice.py', reloading
+2021-01-26 17:46:30,386 - INFO -  * Restarting with stat
+2021-01-26 17:46:31,439 - WARNING -  * Debugger is active!
+2021-01-26 17:46:31,447 - INFO -  * Debugger PIN: 304-184-435
+2021-01-26 17:46:31,464 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-01-26 17:46:34,593 - INFO - 127.0.0.1 - - [26/Jan/2021 17:46:34] "POST /paymentprocess/api/SendEmail HTTP/1.1" 500 -
+2021-01-26 17:46:52,833 - INFO -  * Detected change in 'C:\\Users\\User01\\Documents\\Python\\apps\\PythonCodingTest\\paymentprocessservice.py', reloading
+2021-01-26 17:46:52,876 - INFO -  * Restarting with stat
+2021-01-26 17:46:53,681 - WARNING -  * Debugger is active!
+2021-01-26 17:46:53,689 - INFO -  * Debugger PIN: 304-184-435
+2021-01-26 17:46:53,702 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-01-26 17:46:59,354 - INFO - 127.0.0.1 - - [26/Jan/2021 17:46:59] "POST /paymentprocess/api/SendEmail HTTP/1.1" 500 -
+2021-01-26 17:47:48,103 - INFO -  * Detected change in 'C:\\Users\\User01\\Documents\\Python\\apps\\PythonCodingTest\\paymentprocessservice.py', reloading
+2021-01-26 17:47:48,146 - INFO -  * Restarting with stat
+2021-01-26 17:47:48,976 - WARNING -  * Debugger is active!
+2021-01-26 17:47:48,984 - INFO -  * Debugger PIN: 304-184-435
+2021-01-26 17:47:48,998 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-01-26 17:47:51,960 - INFO - 127.0.0.1 - - [26/Jan/2021 17:47:51] "POST /paymentprocess/api/SendEmail HTTP/1.1" 200 -
+2021-01-26 17:48:24,069 - INFO -  * Detected change in 'C:\\Users\\User01\\Documents\\Python\\apps\\PythonCodingTest\\paymentprocessservice.py', reloading
+2021-01-26 17:48:24,111 - INFO -  * Restarting with stat
+2021-01-26 17:48:24,892 - WARNING -  * Debugger is active!
+2021-01-26 17:48:24,901 - INFO -  * Debugger PIN: 304-184-435
+2021-01-26 17:48:24,913 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-01-26 17:48:28,136 - INFO -  * Detected change in 'C:\\Users\\User01\\Documents\\Python\\apps\\PythonCodingTest\\paymentprocessservice.py', reloading
+2021-01-26 17:48:28,180 - INFO -  * Restarting with stat
+2021-01-26 17:48:29,080 - WARNING -  * Debugger is active!
+2021-01-26 17:48:29,088 - INFO -  * Debugger PIN: 304-184-435
+2021-01-26 17:48:29,103 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-01-26 17:48:34,433 - INFO -  * Detected change in 'C:\\Users\\User01\\Documents\\Python\\apps\\PythonCodingTest\\paymentprocessservice.py', reloading
+2021-01-26 17:48:34,472 - INFO -  * Restarting with stat
+2021-01-26 17:48:35,260 - WARNING -  * Debugger is active!
+2021-01-26 17:48:35,268 - INFO -  * Debugger PIN: 304-184-435
+2021-01-26 17:48:35,282 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-01-26 17:48:40,706 - INFO - 127.0.0.1 - - [26/Jan/2021 17:48:40] "POST /paymentprocess/api/SendEmail HTTP/1.1" 400 -
+2021-01-26 17:48:46,233 - INFO - 127.0.0.1 - - [26/Jan/2021 17:48:46] "POST /paymentprocess/api/SendEmail HTTP/1.1" 200 -
+2021-01-26 17:50:11,773 - INFO -  * Detected change in 'C:\\Users\\User01\\Documents\\Python\\apps\\PythonCodingTest\\paymentprocessservice.py', reloading
+2021-01-26 17:50:11,813 - INFO -  * Restarting with stat
+2021-01-26 17:50:12,627 - WARNING -  * Debugger is active!
+2021-01-26 17:50:12,637 - INFO -  * Debugger PIN: 304-184-435
+2021-01-26 17:50:12,653 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-01-26 17:50:51,112 - INFO -  * Detected change in 'C:\\Users\\User01\\Documents\\Python\\apps\\PythonCodingTest\\paymentprocessservice.py', reloading
+2021-01-26 17:50:51,151 - INFO -  * Restarting with stat
+2021-01-26 17:50:51,933 - WARNING -  * Debugger is active!
+2021-01-26 17:50:51,941 - INFO -  * Debugger PIN: 304-184-435
+2021-01-26 17:50:51,959 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-01-26 17:51:00,716 - INFO - 127.0.0.1 - - [26/Jan/2021 17:51:00] "POST /paymentprocess/api/SendEmail HTTP/1.1" 400 -
+2021-01-26 17:51:05,105 - INFO - 127.0.0.1 - - [26/Jan/2021 17:51:05] "POST /paymentprocess/api/SendEmail HTTP/1.1" 200 -
+2021-01-26 17:51:09,485 - INFO - 127.0.0.1 - - [26/Jan/2021 17:51:09] "POST /paymentprocess/api/SendEmail HTTP/1.1" 400 -
+2021-01-26 17:51:13,624 - INFO - 127.0.0.1 - - [26/Jan/2021 17:51:13] "POST /paymentprocess/api/SendEmail HTTP/1.1" 200 -
+2021-01-26 17:52:35,879 - INFO -  * Detected change in 'C:\\Users\\User01\\Documents\\Python\\apps\\PythonCodingTest\\paymentprocessservice.py', reloading
+2021-01-26 17:52:35,922 - INFO -  * Restarting with stat
+2021-01-26 17:52:36,821 - WARNING -  * Debugger is active!
+2021-01-26 17:52:36,830 - INFO -  * Debugger PIN: 304-184-435
+2021-01-26 17:52:36,847 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-01-26 17:52:37,960 - INFO -  * Detected change in 'C:\\Users\\User01\\Documents\\Python\\apps\\PythonCodingTest\\paymentprocessservice.py', reloading
+2021-01-26 17:52:38,000 - INFO -  * Restarting with stat
+2021-01-26 17:52:38,748 - WARNING -  * Debugger is active!
+2021-01-26 17:52:38,756 - INFO -  * Debugger PIN: 304-184-435
+2021-01-26 17:52:38,769 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-01-26 17:52:43,258 - INFO - 127.0.0.1 - - [26/Jan/2021 17:52:43] "POST /paymentprocess/api/SendEmail HTTP/1.1" 200 -
+2021-01-26 17:52:48,906 - INFO - 127.0.0.1 - - [26/Jan/2021 17:52:48] "POST /paymentprocess/api/SendEmail HTTP/1.1" 200 -
+2021-01-26 17:52:54,134 - INFO - 127.0.0.1 - - [26/Jan/2021 17:52:54] "POST /paymentprocess/api/SendEmail HTTP/1.1" 200 -
+2021-01-26 17:53:18,227 - INFO - 127.0.0.1 - - [26/Jan/2021 17:53:18] "POST /paymentprocess/api/SendEmail HTTP/1.1" 200 -
+2021-01-26 17:53:29,439 - INFO - 127.0.0.1 - - [26/Jan/2021 17:53:29] "POST /paymentprocess/api/SendEmail HTTP/1.1" 200 -
+2021-01-26 17:53:41,255 - INFO - 127.0.0.1 - - [26/Jan/2021 17:53:41] "POST /paymentprocess/api/SendEmail HTTP/1.1" 200 -
+2021-01-26 17:53:47,167 - INFO - 127.0.0.1 - - [26/Jan/2021 17:53:47] "POST /paymentprocess/api/SendEmail HTTP/1.1" 200 -
+2021-01-26 17:55:18,270 - ERROR - exception on ValidateCard: pop from empty list
+2021-01-26 17:55:18,271 - INFO - 127.0.0.1 - - [26/Jan/2021 17:55:18] "POST /paymentprocess/api/SendEmail HTTP/1.1" 400 -
+2021-01-26 17:55:37,093 - INFO - 127.0.0.1 - - [26/Jan/2021 17:55:37] "POST /paymentprocess/api/SendEmail HTTP/1.1" 200 -
+2021-01-26 17:58:58,697 - INFO -  * Detected change in 'C:\\Users\\User01\\Documents\\Python\\apps\\PythonCodingTest\\validationservice.py', reloading
+2021-01-26 17:58:58,737 - INFO -  * Restarting with stat
+2021-01-26 17:58:59,583 - WARNING -  * Debugger is active!
+2021-01-26 17:58:59,591 - INFO -  * Debugger PIN: 304-184-435
+2021-01-26 17:58:59,607 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-01-26 18:02:52,883 - INFO -  * Detected change in 'C:\\Users\\User01\\Documents\\Python\\apps\\PythonCodingTest\\validationservice.py', reloading
+2021-01-26 18:02:52,930 - INFO -  * Restarting with stat
+2021-01-26 18:02:53,763 - WARNING -  * Debugger is active!
+2021-01-26 18:02:53,772 - INFO -  * Debugger PIN: 304-184-435
+2021-01-26 18:02:53,785 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-01-26 18:05:32,159 - INFO -  * Detected change in 'C:\\Users\\User01\\Documents\\Python\\apps\\PythonCodingTest\\validationservice.py', reloading
+2021-01-26 18:05:32,201 - INFO -  * Restarting with stat
+2021-01-26 18:05:33,017 - WARNING -  * Debugger is active!
+2021-01-26 18:05:33,025 - INFO -  * Debugger PIN: 304-184-435
+2021-01-26 18:05:33,057 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-01-26 18:05:34,152 - INFO -  * Detected change in 'C:\\Users\\User01\\Documents\\Python\\apps\\PythonCodingTest\\validationservice.py', reloading
+2021-01-26 18:05:34,191 - INFO -  * Restarting with stat
+2021-01-26 18:05:34,980 - WARNING -  * Debugger is active!
+2021-01-26 18:05:34,988 - INFO -  * Debugger PIN: 304-184-435
+2021-01-26 18:05:35,003 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-01-26 18:06:08,032 - INFO -  * Detected change in 'C:\\Users\\User01\\Documents\\Python\\apps\\PythonCodingTest\\validator.py', reloading
+2021-01-26 18:06:08,076 - INFO -  * Restarting with stat
+2021-01-26 18:06:08,908 - WARNING -  * Debugger is active!
+2021-01-26 18:06:08,917 - INFO -  * Debugger PIN: 304-184-435
+2021-01-26 18:06:08,930 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-01-26 18:06:11,092 - INFO -  * Detected change in 'C:\\Users\\User01\\Documents\\Python\\apps\\PythonCodingTest\\validationservice.py', reloading
+2021-01-26 18:06:11,132 - INFO -  * Restarting with stat
+2021-01-26 18:06:12,067 - WARNING -  * Debugger is active!
+2021-01-26 18:06:12,075 - INFO -  * Debugger PIN: 304-184-435
+2021-01-26 18:06:12,090 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-01-26 18:06:18,766 - INFO - 127.0.0.1 - - [26/Jan/2021 18:06:18] "POST /paymentprocess/api/SendEmail HTTP/1.1" 500 -
+2021-01-26 18:06:55,684 - INFO -  * Detected change in 'C:\\Users\\User01\\Documents\\Python\\apps\\PythonCodingTest\\paymentprocessservice.py', reloading
+2021-01-26 18:06:55,726 - INFO -  * Restarting with stat
+2021-01-26 18:06:56,518 - WARNING -  * Debugger is active!
+2021-01-26 18:06:56,527 - INFO -  * Debugger PIN: 304-184-435
+2021-01-26 18:06:56,539 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-01-26 18:06:57,687 - INFO -  * Detected change in 'C:\\Users\\User01\\Documents\\Python\\apps\\PythonCodingTest\\paymentprocessservice.py', reloading
+2021-01-26 18:06:57,735 - INFO -  * Restarting with stat
+2021-01-26 18:06:58,488 - WARNING -  * Debugger is active!
+2021-01-26 18:06:58,496 - INFO -  * Debugger PIN: 304-184-435
+2021-01-26 18:06:58,510 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-01-26 18:07:02,417 - INFO - 127.0.0.1 - - [26/Jan/2021 18:07:02] "POST /paymentprocess/api/SendEmail HTTP/1.1" 400 -
+2021-01-26 18:07:56,983 - INFO -  * Detected change in 'C:\\Users\\User01\\Documents\\Python\\apps\\PythonCodingTest\\validationservice.py', reloading
+2021-01-26 18:07:57,027 - INFO -  * Restarting with stat
+2021-01-26 18:07:57,815 - WARNING -  * Debugger is active!
+2021-01-26 18:07:57,824 - INFO -  * Debugger PIN: 304-184-435
+2021-01-26 18:07:57,840 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-01-26 18:08:00,645 - INFO - 127.0.0.1 - - [26/Jan/2021 18:08:00] "POST /paymentprocess/api/SendEmail HTTP/1.1" 400 -
+2021-01-26 18:08:06,032 - INFO - 127.0.0.1 - - [26/Jan/2021 18:08:06] "POST /paymentprocess/api/SendEmail HTTP/1.1" 200 -
+2021-01-26 18:08:10,620 - INFO - 127.0.0.1 - - [26/Jan/2021 18:08:10] "POST /paymentprocess/api/SendEmail HTTP/1.1" 400 -
+2021-01-26 18:08:22,181 - INFO - 127.0.0.1 - - [26/Jan/2021 18:08:22] "POST /paymentprocess/api/SendEmail HTTP/1.1" 400 -
+2021-01-26 18:08:27,910 - INFO - 127.0.0.1 - - [26/Jan/2021 18:08:27] "POST /paymentprocess/api/SendEmail HTTP/1.1" 200 -
+2021-01-26 18:08:50,218 - INFO -  * Detected change in 'C:\\Users\\User01\\Documents\\Python\\apps\\PythonCodingTest\\validationservice.py', reloading
+2021-01-26 18:08:50,261 - INFO -  * Restarting with stat
+2021-01-26 18:08:51,127 - WARNING -  * Debugger is active!
+2021-01-26 18:08:51,140 - INFO -  * Debugger PIN: 304-184-435
+2021-01-26 18:08:51,155 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-01-26 18:09:33,569 - INFO -  * Detected change in 'C:\\Users\\User01\\Documents\\Python\\apps\\PythonCodingTest\\paymentprocessservice.py', reloading
+2021-01-26 18:09:33,614 - INFO -  * Restarting with stat
